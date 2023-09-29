@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NooriSelina
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Acquisition and Management
+- 🌱 I’m currently learning Data Acquisition, Cleaning, and Statistics
 - 💞️ I’m looking to collaborate on Data Related Projects
 - 📫 How to reach me: Noori.selina71@spsmail.cuny.edu
 
