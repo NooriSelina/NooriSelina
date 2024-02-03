@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NooriSelina
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Acquisition, Statistical Data Analysis
-- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 🌱 I’m currently learning all things Data Science! 
 - 📫 How to reach me: selinanoori26@gmail.com
 
 <!---
